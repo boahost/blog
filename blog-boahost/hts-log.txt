@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 31 Jan 2024 01:43:22 at https://openlisthtml.themever.net/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://openlisthtml.themever.net/index.html -O1 "C:\Meus Sites\blog-boahost" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:44:14	Error: 	"Not Found" (404) at link https://openlisthtml.themever.net/snap.util.attr.class (from https://openlisthtml.themever.net/vendors/chart/snap.svg-min.js)
+01:44:14	Error: 	"Not Found" (404) at link https://openlisthtml.themever.net/snap.util.getattr.class (from https://openlisthtml.themever.net/vendors/chart/snap.svg-min.js)
+01:44:14	Error: 	"Not Found" (404) at link https://openlisthtml.themever.net/e (from https://openlisthtml.themever.net/vendors/chart/snap.svg-min.js)
+01:44:14	Error: 	"Not Found" (404) at link https://openlisthtml.themever.net/Firefox/ (from https://openlisthtml.themever.net/vendors/chart/highcharts.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 52 seconds : 181 links scanned, 176 files written (14339903 bytes overall) [12149653 bytes received at 233647 bytes/sec], 3259593 bytes transferred using HTTP compression in 46 files, ratio 29%, 25.8 requests per connection
+(4 errors, 0 warnings, 0 messages)
